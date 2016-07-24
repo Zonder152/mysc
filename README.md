@@ -1,3 +1,3 @@
-# nta
+# com
 
-This is just a basic HelloWorld node app to try it out. 
+This is node app. 
