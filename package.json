@@ -1,7 +1,6 @@
 {
-  "name": "nta",
+  "name": "mysc",
   "version": "1.0.0",
-  "description": "This is just a basic HelloWorld node app to try it out.",
   "main": "server.js",
   "dependencies": {
     "express": "^4.13.3",
@@ -16,11 +15,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Zonder152/mysc.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tam3r/nta/issues"
-  },
-  "homepage": "https://github.com/tam3r/nta"
+  }
 }
